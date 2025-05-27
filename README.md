@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tasmiya Adnan</h1>
 <h3 align="center">A passionate ASP.NET MVC & Core developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tasmiya222" alt="tasmiya222" /></a> </p>
-
 - 🌱 I’m currently learning **.NET MAUI & Mobile Application**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tasmiya222](https://github.com/tasmiya222)
